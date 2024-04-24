@@ -12,6 +12,6 @@ pio.templates[pio.templates.default].layout.margin.t = 50  # Top margin
 pio.templates[pio.templates.default].layout.margin.b = 50  # Bottom margin
 
 pio.templates[pio.templates.default].layout.hoverlabel.font.family = 'monospace'
-pio.templates[pio.templates.default].layout.hoverlabel.font.size = 14
+pio.templates[pio.templates.default].layout.hoverlabel.font.size = 18
 pio.templates[pio.templates.default].layout.hoverlabel.bgcolor = 'black'
 pio.templates[pio.templates.default].layout.hoverlabel.bordercolor = 'lightgrey'
